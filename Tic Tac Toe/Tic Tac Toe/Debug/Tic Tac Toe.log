@@ -1,0 +1,44 @@
+﻿  Tic Tac Toe.cpp
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\CC212SGL.h(28,2): warning C4091: '__declspec(dllimport)': ignored on left of 'COLORS' when no variable is declared
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(90,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(90,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(123,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(124,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(155,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(155,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(155,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(155,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(156,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(156,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(156,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(156,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(160,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(160,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(160,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(160,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(161,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(161,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(161,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(161,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(181,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(181,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(185,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(185,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(199,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(199,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(215,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(215,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(217,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(217,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(223,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(223,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(226,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(230,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(230,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(126,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(258,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(336,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(349,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(93,6): warning C4101: 'dragon': unreferenced local variable
+C:\Users\elmag\source\repos\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.cpp(107,7): warning C4101: 'strwin': unreferenced local variable
+  Tic Tac Toe.vcxproj -> C:\Users\elmag\source\repos\Tic Tac Toe\Debug\Tic Tac Toe.exe
